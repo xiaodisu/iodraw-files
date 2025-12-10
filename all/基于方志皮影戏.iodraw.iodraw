@@ -72,18 +72,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="345" />
-              <mxPoint x="490" y="480" />
-              <mxPoint x="460" y="480" />
-              <mxPoint x="460" y="490" />
-              <mxPoint x="420" y="490" />
-              <mxPoint x="420" y="555" />
-              <mxPoint x="360" y="555" />
+              <mxPoint x="490" y="530" />
+              <mxPoint x="420" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-84" value="由...制作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="9hHq0xZzzfFtKYmX3iRm-83">
           <mxGeometry x="-0.2769" y="-1" relative="1" as="geometry">
-            <mxPoint x="-39" y="1" as="offset" />
+            <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-32" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; data-spm-anchor-id=&quot;a2ty_o01.29997173.0.i3.4d025171ikANBb&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;皮影戏影人&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
