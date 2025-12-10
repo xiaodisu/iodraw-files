@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-32" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; data-spm-anchor-id=&quot;a2ty_o01.29997173.0.i3.4d025171ikANBb&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;皮影戏影人&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="637.67" y="290" width="140" height="104" as="geometry" />
+          <mxGeometry x="570" y="300" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-33" value="影人名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="9hHq0xZzzfFtKYmX3iRm-32">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-56" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; data-spm-anchor-id=&quot;a2ty_o01.29997173.0.i3.4d025171ikANBb&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;历史事件&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="647.67" y="520" width="140" height="104" as="geometry" />
+          <mxGeometry x="580" y="530" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-58" value="时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="9hHq0xZzzfFtKYmX3iRm-56">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -288,7 +288,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-111" value="被...记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="682.6672222176903" y="198.6664762566138" as="geometry">
+          <mxGeometry x="389.9972222176903" y="198.6664762566138" as="geometry">
             <mxPoint x="-151" y="183" as="offset" />
           </mxGeometry>
         </mxCell>
