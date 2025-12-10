@@ -230,11 +230,9 @@
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;exitX=0.96;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="390" as="sourcePoint" />
-            <mxPoint x="310" y="368" as="targetPoint" />
+            <mxPoint x="310" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="368" />
-              <mxPoint x="300" y="370" />
-              <mxPoint x="310" y="370" />
+              <mxPoint x="104" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
