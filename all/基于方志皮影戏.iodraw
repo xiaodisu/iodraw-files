@@ -19,8 +19,8 @@
             <mxPoint x="99.99999999999977" y="224.99999999999955" as="targetPoint" />
             <Array as="points">
               <mxPoint x="5" y="276" />
-              <mxPoint x="170" y="276" />
-              <mxPoint x="170" y="186" />
+              <mxPoint x="10" y="276" />
+              <mxPoint x="10" y="186" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,7 +116,7 @@
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-86" value="使用技法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="9hHq0xZzzfFtKYmX3iRm-85" vertex="1" connectable="0">
           <mxGeometry x="-0.6296" y="-3" relative="1" as="geometry">
-            <mxPoint x="67" y="-37" as="offset" />
+            <mxPoint x="86" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-56" edge="1">
