@@ -143,7 +143,7 @@
             <mxPoint x="663" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hHq0xZzzfFtKYmX3iRm-95" value="被...记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="9hHq0xZzzfFtKYmX3iRm-94" vertex="1" connectable="0">
+        <mxCell id="9hHq0xZzzfFtKYmX3iRm-95" value="被...记录&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;line-height:&lt;br/&gt;115%;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-US&quot;&gt;describesContentOf&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="9hHq0xZzzfFtKYmX3iRm-94" vertex="1" connectable="0">
           <mxGeometry x="-0.2132" y="-4" relative="1" as="geometry">
             <mxPoint x="-4" y="-43" as="offset" />
           </mxGeometry>
