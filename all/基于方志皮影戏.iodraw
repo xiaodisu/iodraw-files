@@ -14,9 +14,14 @@
             <mxPoint x="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hHq0xZzzfFtKYmX3iRm-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-0" target="9hHq0xZzzfFtKYmX3iRm-40" edge="1">
+        <mxCell id="9hHq0xZzzfFtKYmX3iRm-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-0" target="9hHq0xZzzfFtKYmX3iRm-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="99.99999999999977" y="224.99999999999955" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5" y="276" />
+              <mxPoint x="170" y="276" />
+              <mxPoint x="170" y="186" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-77" value="表演剧目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="9hHq0xZzzfFtKYmX3iRm-76" vertex="1" connectable="0">
@@ -31,7 +36,7 @@
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-89" value="发生于" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="9hHq0xZzzfFtKYmX3iRm-88" vertex="1" connectable="0">
           <mxGeometry x="0.6643" y="3" relative="1" as="geometry">
-            <mxPoint x="-77" y="38" as="offset" />
+            <mxPoint x="-117" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-0" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;皮影戏演出&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -82,7 +87,7 @@
           <mxGeometry x="100" y="160" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-44" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;操纵技法&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="264" width="140" height="52" as="geometry" />
+          <mxGeometry x="360" y="264" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-48" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;演出场所&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="130" width="140" height="52" as="geometry" />
@@ -96,7 +101,7 @@
         <mxCell id="9hHq0xZzzfFtKYmX3iRm-60" value="&lt;span class=&quot;qwen-markdown-strong&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227); color: rgb(29, 29, 32); font-size: 14px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;&lt;span class=&quot;qwen-markdown-text&quot; style=&quot;margin: 0px; padding: 0px; box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(227, 227, 227);&quot;&gt;文化遗产文献&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="-30" width="140" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="9hHq0xZzzfFtKYmX3iRm-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-0" edge="1">
+        <mxCell id="9hHq0xZzzfFtKYmX3iRm-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-0" target="9hHq0xZzzfFtKYmX3iRm-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="139.99999999999994" y="368.00400000000013" as="sourcePoint" />
             <mxPoint x="320" y="290" as="targetPoint" />
@@ -178,9 +183,6 @@
           <mxGeometry x="0.3066" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g565eWUE-IVn7soyWVzv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.87;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9hHq0xZzzfFtKYmX3iRm-44" target="9hHq0xZzzfFtKYmX3iRm-44">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
